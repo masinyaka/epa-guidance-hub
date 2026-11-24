@@ -1,0 +1,15 @@
+{
+  "checks": [
+    "Landing two audiences: PASS",
+    "Three ST0331 occupational options/default QS: PASS",
+    "Four optional APC choices independently selected: PASS",
+    "One-page summary and return context: PASS",
+    "Seven-standard comparison/filter/return: PASS",
+    "Gateway checklist retained through print navigation: PASS",
+    "CIOB standard selection: PASS",
+    "Staff view and role-specific FAQs: PASS",
+    "Mobile/property RICS session default: PASS"
+  ],
+  "passed": 9,
+  "failed": 0
+}
